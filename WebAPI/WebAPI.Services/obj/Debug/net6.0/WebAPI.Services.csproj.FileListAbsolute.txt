@@ -1,0 +1,17 @@
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Services.deps.json
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Services.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Services.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Common.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Interfaces.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Interfaces.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\bin\Debug\net6.0\WebAPI.Common.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.csproj.AssemblyReference.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.AssemblyInfoInputs.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.AssemblyInfo.cs
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.csproj.CoreCompileInputs.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.csproj.CopyComplete
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\refint\WebAPI.Services.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\WebAPI.Services.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Services\obj\Debug\net6.0\ref\WebAPI.Services.dll

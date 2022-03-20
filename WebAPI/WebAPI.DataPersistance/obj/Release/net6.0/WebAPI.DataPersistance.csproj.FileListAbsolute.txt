@@ -1,0 +1,17 @@
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.DataPersistance.deps.json
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.DataPersistance.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.DataPersistance.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.Common.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.Interfaces.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.Interfaces.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\bin\Release\net6.0\WebAPI.Common.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.csproj.AssemblyReference.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.AssemblyInfoInputs.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.AssemblyInfo.cs
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.csproj.CoreCompileInputs.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.csproj.CopyComplete
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\refint\WebAPI.DataPersistance.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\WebAPI.DataPersistance.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.DataPersistance\obj\Release\net6.0\ref\WebAPI.DataPersistance.dll
