@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9zMCPwuhrZq0zXDy9j31jMb/RPxDKleJSb8bZ1N0t7BcVDVODw4BF9LHOuyAkRtx/sL6vG7yI6rVBbGlX3gFg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\github\\rebeldot_homework\\HttpClientSample\\HttpClientSample\\HttpClientSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamas.varga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

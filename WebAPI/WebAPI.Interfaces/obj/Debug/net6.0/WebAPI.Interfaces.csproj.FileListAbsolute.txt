@@ -1,0 +1,15 @@
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\bin\Debug\net6.0\WebAPI.Interfaces.deps.json
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\bin\Debug\net6.0\WebAPI.Interfaces.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\bin\Debug\net6.0\WebAPI.Interfaces.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\bin\Debug\net6.0\WebAPI.Common.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\bin\Debug\net6.0\WebAPI.Common.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.csproj.AssemblyReference.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.AssemblyInfoInputs.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.AssemblyInfo.cs
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.csproj.CopyComplete
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\refint\WebAPI.Interfaces.dll
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\WebAPI.Interfaces.pdb
+D:\Projects\varga_tamas\WebAPI\WebAPI.Interfaces\obj\Debug\net6.0\ref\WebAPI.Interfaces.dll
